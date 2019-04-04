@@ -1,0 +1,9 @@
+$dokka.format:html
+$dokka.linkExtension:html
+$dokka.location:com.javisc.extensions.android$snackbarShortOnDismissed(android.view.View, kotlin.String, kotlin.Function0((kotlin.Unit)))com.javisc.extensions.android/android.view.-view/snackbar-short-on-dismissed.html
+$dokka.location:com.javisc.extensions.android.view$glide(android.widget.ImageView, kotlin.String)com.javisc.extensions.android.view/android.widget.-image-view/glide.html
+$dokka.location:com.javisc.extensions.android.view$glideWithCrossFade(android.widget.ImageView, kotlin.String)com.javisc.extensions.android.view/android.widget.-image-view/glide-with-cross-fade.html
+$dokka.location:com.javisc.extensions.android.view$glideWithCrossFadeCircle(android.widget.ImageView, kotlin.String)com.javisc.extensions.android.view/android.widget.-image-view/glide-with-cross-fade-circle.html
+$dokka.location:com.javisc.extensions.android.view$picasso(android.widget.ImageView, kotlin.String)com.javisc.extensions.android.view/android.widget.-image-view/picasso.html
+com.javisc.extensions.android
+com.javisc.extensions.android.view

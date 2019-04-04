@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Kotlin Extension Functions</string>
+
+    <string-array name="content">
+        <item>View</item>
+    </string-array>
 </resources>

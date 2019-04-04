@@ -1,7 +1,8 @@
-package com.javisc.kotlinextensionfunctions
+package com.javisc.kotlinextensionfunctions.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.javisc.kotlinextensionfunctions.R
 
 class MainActivity : AppCompatActivity() {
 
